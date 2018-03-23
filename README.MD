@@ -1,6 +1,6 @@
 # Sean's Scripts
 
-A place for me to keep track of and version some fun helpful scripts that I've created or used. I'll try to provide attribution whenever something doesn't really come directly from me.
+A place for me to keep track of and version some fun helpful scripts that I've created or used. I'll try to provide attribution whenever something doesn't really come directly from me. If you see something that you think you've seen elsewhere, let me know so that I can add thanks for it!
 
 ## Script Catalog
 A tour of the scripts in this repo.
@@ -15,4 +15,4 @@ For every repo in my repos folder, this script:
 * Installs all of the npm packages
 * Copyies the Nuget packages into my offline nuget folder, which will allow me to use them to create new apps while on planes etc.
 
-It also logs the output to a CSV and the screen, because why not? 
+It also logs the output to a CSV and the screen, because why not?
